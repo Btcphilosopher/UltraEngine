@@ -1,0 +1,6 @@
+{
+  "name": "UltraEngine",
+  "description": "Ultra-low-latency Kotlin systems engine with lock-free ring buffers, zero-copy serialization, high-resolution timers, event replay, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
